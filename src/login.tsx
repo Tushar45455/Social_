@@ -44,6 +44,8 @@ const LoginPage: React.FC = () => {
       <br></br>
       <button onClick={handleReset}>Reset</button>       <button onClick={handleLogin}>login</button>
       <pre>{submittedData}</pre>
+
+      
     </div>
     
   );
